@@ -1,0 +1,15 @@
+<div class="logo-container">
+{{ with $.Site.Params.Logo.logoImage }}
+<a class="logo-link" href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}">
+    <div>
+        <img src="{{ . }}" alt="Open Jam logo" />
+    </div>
+</a>
+{{ end }}
+
+<!-- <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}"> -->
+<!--     <div class="title-line"> -->
+<!--         {{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}Terminal{{ end }} -->
+<!--     </div> -->
+<!-- </a> -->
+</div>
