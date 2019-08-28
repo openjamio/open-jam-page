@@ -1,4 +1,5 @@
 import PfeIcon from "@patternfly/pfe-icon";
+import "@patternfly/pfe-datetime";
 
 PfeIcon.addIconSet(
   "far",

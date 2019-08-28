@@ -9,5 +9,9 @@
   --tabletWidth: (max-width: 900px);
 }
 
+pfe-icon {
+    --pfe-icon--Color: var(--color, white);
+}
+
 @custom-media --phone (width < 684px);
 @custom-media --tablet (width < 900px);

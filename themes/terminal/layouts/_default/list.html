@@ -32,7 +32,9 @@
     {{ end }}
 
     {{ if .Params.Cover }}
-    <img src="{{ .Permalink }}/{{ .Params.Cover }}" class="post-cover" />
+    <a href="{{.RelPermalink}}">
+        <img src="{{ .Permalink }}/{{ .Params.Cover }}" class="post-cover" />
+    </a>
     {{ end }}
 
     <div class="post-content">
