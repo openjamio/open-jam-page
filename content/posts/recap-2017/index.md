@@ -2,7 +2,7 @@
 title = "Open Jam 2017 Recap"
 date = "2019-08-26"
 author = "@mwcz"
-tags = ["open-jam-2017", "open-jam"]
+tags = ["open-jam-2017", "open-jam", "recap"]
 description = "A recap of the second Open Jam which took place in 2017."
 showFullContent = false
 +++

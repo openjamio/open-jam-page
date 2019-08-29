@@ -1,8 +1,8 @@
 <div class="logo-container">
 {{ with $.Site.Params.Logo.logoImage }}
-<a class="logo-link" href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}">
+<a class="logo-link" href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink | relURL }}{{else}}{{ $.Site.BaseURL | relURL }}{{ end }}">
     <div>
-        <img src="{{ . }}" alt="Open Jam logo" />
+        <img src="{{ . | relURL }}" alt="Open Jam logo" />
     </div>
 </a>
 {{ end }}
