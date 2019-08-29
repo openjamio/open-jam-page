@@ -6,10 +6,16 @@ It's powered by the Hugo static site generator.
 
 ## Local quick-start
 
-Make sure hugo is installed.  For Fedora users:
 
+Make sure hugo is installed.  For Fedora users:
 ```
 dnf install hugo
+```
+
+Then install npm dependencies:
+
+```
+npm install
 ```
 
 Then, from inside this repo:
@@ -19,6 +25,14 @@ hugo server
 ```
 
 Add `-D` to include draft posts.
+
+To rebuild the JS and CSS:
+
+```
+cd themes/terminal
+npm i
+npm run build
+```
 
 ## Creating a new post
 
