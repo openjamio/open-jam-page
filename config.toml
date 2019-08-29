@@ -40,6 +40,7 @@ copyright = "hi"
       logoText = "Open Jam"
       logoImage = "/logo/open-jam-logo.png"
       logoHomeLink = "/"
+      logoTagline = "Open Jam is a community building games together for a weekend of fun. Join our game jam to help create open source games using freely available development tools."
 
     [languages.en.menu]
       [[languages.en.menu.main]]

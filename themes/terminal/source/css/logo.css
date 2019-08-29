@@ -6,3 +6,9 @@
   color: black;
   padding: 5px 10px;
 }
+.logo-container {
+    display: grid;
+    /* grid-template-columns: max-content minmax(200px, 1fr); */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 32px;
+}

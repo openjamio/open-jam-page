@@ -7,6 +7,10 @@
 </a>
 {{ end }}
 
+{{ with $.Site.Params.Logo.logoTagLine }}
+<p>{{ . }}</p>
+{{ end }}
+
 <!-- <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}"> -->
 <!--     <div class="title-line"> -->
 <!--         {{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}Terminal{{ end }} -->
