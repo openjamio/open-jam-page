@@ -24,7 +24,7 @@ copyright = "hi"
   # center theme with default width
   centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
 [languages]
   [languages.en]
