@@ -4,7 +4,7 @@ date = "2019-08-27"
 author = "@mwcz"
 cover = "clickercritter.png"
 tags = ["open-jam-2018", "open-jam", "recap"]
-description = "A recap of the very first Open Jam which took place in 2018."
+description = "A recap of the second Open Jam which took place in 2018."
 showFullContent = false
 +++
 
