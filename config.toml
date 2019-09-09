@@ -1,4 +1,4 @@
-baseURL = "https://openjamio.github.io/open-jam-page/"
+baseURL = "http://openjam.io"
 languageCode = "en-us"
 title = "Open Jam"
 
