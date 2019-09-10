@@ -33,7 +33,7 @@
     /*   right: 10px; */
     /* } */
 
-    a {
+    .logo-link {
       flex: 0 0 auto;
       max-width: 100%;
       text-decoration: none;
