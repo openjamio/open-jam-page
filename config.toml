@@ -9,6 +9,12 @@ theme = "terminal"
 
 copyright = "hi"
 
+[social]
+    discord = "https://discord.gg/8uDjRgj"
+    itch = "https://itch.io/jam/open-jam-2019"
+    twitter = "https://twitter.com/openjamio"
+    irc = "https://webchat.freenode.net/#openjam"
+
 # terminal theme params
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -25,6 +31,7 @@ copyright = "hi"
   centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
+
 
 [languages]
   [languages.en]

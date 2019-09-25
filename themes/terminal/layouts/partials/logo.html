@@ -7,9 +7,41 @@
 </a>
 {{ end }}
 
+<span>
+{{ range $key, $val := $.Site.Social }}
+{{ $iconScratch := newScratch }}
+{{ if eq $key "twitter" }}
+    {{ $iconScratch.Set "icon" "fab-twitter" }}
+    {{ $iconScratch.Set "color" "#139FEF" }}
+    {{ $iconScratch.Set "alt" "Open Jam on Twitter" }}
+{{ else if eq $key "irc" }}
+    {{ $iconScratch.Set "icon" "fas-hashtag" }}
+    {{ $iconScratch.Set "color" "#73D48B" }}
+    {{ $iconScratch.Set "alt" "Open Jam on IRC, #openjam at Freenode" }}
+{{ else if eq $key "itch" }}
+    {{ $iconScratch.Set "icon" "fab-itch-io" }}
+    {{ $iconScratch.Set "color" "#FFFFFF" }}
+    {{ $iconScratch.Set "alt" "Open Jam on itch.io" }}
+{{ else if eq $key "discord" }}
+    {{ $iconScratch.Set "icon" "fab-discord" }}
+    {{ $iconScratch.Set "color" "#7187D7" }}
+    {{ $iconScratch.Set "alt" "Open Jam on Discord" }}
+{{ end }}
+
+<a href="{{ $val }}" alt="{{ $iconScratch.Get "alt" }}"><pfe-icon
+        style="--pfe-icon--Color: {{ $iconScratch.Get "color" }}"
+        icon="{{ $iconScratch.Get "icon" }}"
+        size="md"
+        >
+    </pfe-icon></a>
+{{ end }}
+</span>
+
 {{ with $.Site.Params.Logo.logoTagLine }}
 <p>{{ safeHTML . }}</p>
 {{ end }}
+
+
 
 <!-- <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}"> -->
 <!--     <div class="title-line"> -->
