@@ -1,11 +1,15 @@
 <nav class="menu">
   <ul class="menu__inner menu__inner--desktop">
     {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
-      {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
+      {{ range $index, $val := (first $.Site.Params.showMenuItems $.Site.Menus.main) }}
         {{ if not .HasChildren }}
           <li>
+              {{ if eq $index 0 }}
               <pfe-cta pfe-priority="primary">
-                  <a href="{{ .URL }}">{{ .Name }}</a>
+              {{ else }}
+              <pfe-cta pfe-priority="primary" pfe-color="base">
+              {{ end }}
+                  <a href="{{ $val.URL }}">{{ $val.Name }}</a>
               </pfe-cta>
           </li>
         {{ end }}
