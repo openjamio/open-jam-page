@@ -55,6 +55,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
+    "@patternfly/pfe-cta": "^1.0.0-prerelease.24",
     "@patternfly/pfe-datetime": "^1.0.0-prerelease.22",
     "@patternfly/pfe-icon": "^1.0.0-prerelease.22"
   }

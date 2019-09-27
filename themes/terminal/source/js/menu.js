@@ -12,7 +12,7 @@ const handleMenuClasses = () => {
   menuMore && menuMore.classList.toggle("hidden", !isMobile());
 };
 
-Common
+// Common
 
 menu && menu.addEventListener("click", e => e.stopPropagation());
 menuMore && menuMore.addEventListener("click", e => e.stopPropagation());
