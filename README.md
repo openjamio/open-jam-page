@@ -45,3 +45,10 @@ hugo new posts/announce-2020/index.md
 Then edit `content/posts/announce-2020/index.md` in your favorite editor.
 
 If your post includes images, or other static content, copy it into the post's folder (put it beside index.md).  You can then link to it relative to the post.
+
+## Deploy the new site
+To deploy your changes to github pages to https://openjamio.github.io/open-jam-page/
+
+```
+npm run deploy
+```
