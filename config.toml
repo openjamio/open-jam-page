@@ -47,7 +47,7 @@ copyright = "hi"
       logoText = "Open Jam"
       logoImage = "/logo/open-jam-logo.png"
       logoHomeLink = "/"
-      logoTagline = 'Open Jam is an annual, weekend-long open-source game jam. Sign up, and create open source games using freely available development tools.<br><br><strong>Open Jam 2020 starts on <pfe-datetime datetime="september 18 2020 1:00 pm edt" type="local" day="numeric" month="long" year="numeric" locale>September 18 2020 1:00 PM EDT</pfe-datetime> <a href="https://itch.io/jam/open-jam-2020">Sign up!</a></strong>'
+      logoTagline = 'Open Jam is an annual, weekend-long open-source game jam. Sign up, and create open source games using freely available development tools.<br><br><strong>Open Jam 2020 concluded on <pfe-datetime datetime="september 20 2020 9:00 pm edt" type="local" day="numeric" month="long" year="numeric" locale>September 21 2020</pfe-datetime></strong>'
 
 
     [languages.en.menu]
