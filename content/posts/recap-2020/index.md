@@ -2,7 +2,7 @@
 title = "Open Jam 2020 Recap"
 date = "2020-10-12"
 author = "@mwcz"
-cover = "clickercritter.png"
+cover = "thumb.png"
 tags = ["open-jam-2020", "open-jam", "recap"]
 description = "A recap of the fourth annual Open Jam which took place in September 2020."
 showFullContent = false
