@@ -8,15 +8,6 @@ description = "A recap of the fourth annual Open Jam which took place in Septemb
 showFullContent = false
 +++
 
-<style>
-.game-play-button {
-margin-left: 0.4em;
-margin-top: -0.2em;
-}
-pfe-cta {
-margin-right: 1em;
-}
-</style>
 
 Open Jam 2020 was the second Open Jam.  For 80 hours, from September 18-21st, Open Jammers made _twenty-seven_ open source games, using open source tools.  The theme was **AIRBORNE**.
 
@@ -85,6 +76,15 @@ These three games emerged on top, but there are gems throughout the [results][re
 
 Check out Open Jam 2020 over on the itch.io [<pfe-icon size="2x" style="--pfe-icon--Color: hotpink" icon="fab-itch-io"></pfe-icon>JAM PAGE<pfe-icon size="2x" style="--pfe-icon--Color: hotpink" icon="fab-itch-io"></pfe-icon>][results]!
 
+<style>
+.game-play-button {
+margin-left: 0.4em;
+margin-top: -0.2em;
+}
+pfe-cta {
+margin-right: 1em;
+}
+</style>
 
 [oj2020]: https://itch.io/jam/open-jam-2020
 [results]: https://itch.io/jam/open-jam-2020/results
