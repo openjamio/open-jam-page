@@ -53,8 +53,8 @@ copyright = "hi"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "2019"
-        name = "2020 Sign ups"
-        url = "https://itch.io/jam/open-jam-2020"
+        name = "2020 Results"
+        url = "https://itch.io/jam/open-jam-2020/results"
       [[languages.en.menu.main]]
         identifier = "past-jams"
         name = "Past Jams"
@@ -63,3 +63,11 @@ copyright = "hi"
         identifier = "brand"
         name = "Brand"
         url = "/brand"
+
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
