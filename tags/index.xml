@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Open Jam</title>
+    <link>https://openjam.io/tags/</link>
+    <description>Recent content in Tags on Open Jam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@ Open Jam</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open-jam</title>
+      <link>https://openjam.io/tags/open-jam/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2021</title>
+      <link>https://openjam.io/tags/open-jam-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2020</title>
+      <link>https://openjam.io/tags/open-jam-2020/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recap</title>
+      <link>https://openjam.io/tags/recap/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/recap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brand</title>
+      <link>https://openjam.io/tags/brand/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logos</title>
+      <link>https://openjam.io/tags/logos/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/logos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2019</title>
+      <link>https://openjam.io/tags/open-jam-2019/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2018</title>
+      <link>https://openjam.io/tags/open-jam-2018/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2017</title>
+      <link>https://openjam.io/tags/open-jam-2017/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

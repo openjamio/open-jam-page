@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-jam-2021 on Open Jam</title>
+    <link>https://openjam.io/tags/open-jam-2021/</link>
+    <description>Recent content in open-jam-2021 on Open Jam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@ Open Jam</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/open-jam-2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Jam 2021 theme announcement</title>
+      <link>https://openjam.io/posts/theme-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/posts/theme-2021/</guid>
+      <description>Open Jam 2021 has two themes you can pick from&amp;hellip; Cats OR Dogs!!! Join the jam at Open Jam 2021!</description>
+    </item>
+    
+  </channel>
+</rss>

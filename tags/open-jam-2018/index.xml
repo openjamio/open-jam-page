@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open-jam-2018 on Open Jam</title>
+    <link>https://openjam.io/tags/open-jam-2018/</link>
+    <description>Recent content in open-jam-2018 on Open Jam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@ Open Jam</copyright>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/open-jam-2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Jam 2018 Recap</title>
+      <link>https://openjam.io/posts/recap-2018/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/posts/recap-2018/</guid>
+      <description>Open Jam 2018 was the second Open Jam. During 80 hours, from October 5-8th, roughly fifty brave creators made open source games, using open source tools. The theme was spam to win.
+The three top-rated games earned a spot on the floor at All Things Open 2018.
+Check out the results over on the itch.io JAM PAGE!</description>
+    </item>
+    
+  </channel>
+</rss>

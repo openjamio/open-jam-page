@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recap on Open Jam</title>
+    <link>https://openjam.io/tags/recap/</link>
+    <description>Recent content in recap on Open Jam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>@ Open Jam</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/recap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Jam 2020 Recap</title>
+      <link>https://openjam.io/posts/recap-2020/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/posts/recap-2020/</guid>
+      <description>Open Jam 2020 was the second Open Jam. For 80 hours, from September 18-21st, Open Jammers made twenty-seven open source games, using open source tools. The theme was AIRBORNE.
+After a round of peer voting, the results are in!
+  First place goes to: Jurassic Snowpark Created by Alligator Ventures; in this game you play as a snowboarding dinosaur. Take to the slopes, earn money to buy upgrades for your snowboard.</description>
+    </item>
+    
+    <item>
+      <title>Open Jam 2018 Recap</title>
+      <link>https://openjam.io/posts/recap-2018/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/posts/recap-2018/</guid>
+      <description>Open Jam 2018 was the second Open Jam. During 80 hours, from October 5-8th, roughly fifty brave creators made open source games, using open source tools. The theme was spam to win.
+The three top-rated games earned a spot on the floor at All Things Open 2018.
+Check out the results over on the itch.io JAM PAGE!</description>
+    </item>
+    
+    <item>
+      <title>Open Jam 2017 Recap</title>
+      <link>https://openjam.io/posts/recap-2017/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/posts/recap-2017/</guid>
+      <description>Open Jam 2017 was the very first Open Jam. The theme was leave a mark.
+The three top-rated games earned a spot on the floor at All Things Open 2017.
+Check out the results over on the itch.io JAM PAGE!</description>
+    </item>
+    
+  </channel>
+</rss>
