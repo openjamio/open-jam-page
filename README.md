@@ -8,6 +8,7 @@ It's powered by the Hugo static site generator.
 
 
 Make sure hugo is installed.  For Fedora users:
+
 ```
 dnf install hugo
 ```

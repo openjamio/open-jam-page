@@ -3,7 +3,7 @@ title = "Open Jam 2019 theme announcement"
 date = "2019-09-27"
 author = "@mwcz"
 cover = "theme.gif"
-tags = ["open-jam-2019", "open-jam"]
+tags = ["open-jam-2019", "open-jam", "theme"]
 description = "The theme for Open Jam 2019 is.... THE FUTURE!!!"
 showFullContent = false
 +++
