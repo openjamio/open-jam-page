@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@ Open Jam</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://openjam.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>open-jam</title>
       <link>https://openjam.io/tags/open-jam/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://openjam.io/tags/open-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-jam-2022</title>
+      <link>https://openjam.io/tags/open-jam-2022/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/open-jam-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://openjam.io/tags/theme/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://openjam.io/tags/theme/</guid>
       <description></description>
     </item>
     
